@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Anirudh
 
-- 👀 I’m interested in Technology, Finance and Startups and Business
+- 👀 Interested in Sports, Technology, Finance and Business
 
-- 🌱 I’m currently learning a few JavaScript frameworks
+- 🌱 Currently learning a few JavaScript frameworks
 
-- 💞️ I’m looking to collaborate on fun projects
+- 📚 Reading _Behind the Cloud_ by Marc Benioff
+
+- 💻 Working on a few projects (and being regular with github)
 
 - 📫 How to reach me: anirudh.iyer@outlook.com
 
