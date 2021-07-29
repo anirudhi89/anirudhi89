@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: anirudh.iyer@outlook.com
 
-[![Anurag's GitHub stats](github-readme-stats-anirudhi89.vercel.app/api?username=anirudhi89)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](github-readme-stats-anirudhi89.vercel.app/api?username=anirudhi89)](https://github.com/anirudhi89/github-readme-stats)
 
 
 
