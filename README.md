@@ -6,7 +6,7 @@
 
 - 📚 Reading _Behind the Cloud_ by Marc Benioff
 
-- 💻 Working on a few projects (and being regular with github)
+- 💻 Working on a few projects, being regular with GitHub, and contributing to open source
 
 - 📫 How to reach me: anirudh.iyer@outlook.com
 
