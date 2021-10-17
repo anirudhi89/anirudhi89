@@ -4,8 +4,6 @@
 
 - 🌱 Currently learning a few JavaScript frameworks
 
-- 📚 Reading _Behind the Cloud_ by Marc Benioff
-
 - 💻 Working on a few projects, being regular with GitHub, and contributing to open source
 
 - 📫 How to reach me: anirudh.iyer@outlook.com
