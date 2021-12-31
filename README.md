@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anirudh
+👋 Hi, I’m Anirudh
 
 With backgrounds in IT, Computer Systems, and Software Development, I'm always looking to learn and add new skills to my toolbox. As just a sophomore I'm a self-taught full-stack developer. I am well versed in web development, using the industry-standard MERN (MongoDB, Express, React, and Node) stack, as well as experience in languages such as C# (.NET Framework and ASP.NET), Python, and Java.
 
