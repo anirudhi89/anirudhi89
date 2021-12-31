@@ -1,12 +1,7 @@
 - 👋 Hi, I’m Anirudh
 
-- 👀 Interested in Sports, Technology, Finance and Business
+With backgrounds in IT, Computer Systems, and Software Development, I'm always looking to learn and add new skills to my toolbox. As just a sophomore I'm a self-taught full-stack developer. I am well versed in web development, using the industry-standard MERN (MongoDB, Express, React, and Node) stack, as well as experience in languages such as C# (.NET Framework and ASP.NET), Python, and Java.
 
-- 🌱 Currently learning a few JavaScript frameworks
-
-- 💻 Working on a few projects, being regular with GitHub, and contributing to open source
-
-- 📫 How to reach me: anirudh.iyer@outlook.com
 
 
 ![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhi89)
