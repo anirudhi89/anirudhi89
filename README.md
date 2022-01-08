@@ -7,8 +7,7 @@ With backgrounds in IT, Computer Systems, and Software Development, I'm always l
 ![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhi89)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhi89&layout=compact)]
-<!-- (https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhi89&layout=compact)
 
 
 <!---
