@@ -4,12 +4,12 @@ Hi 👋 My name is Anirudh Iyer
 CS Student and Full-Stack Developer
 -----------------------------------
 
-With backgrounds in IT, Computer Systems, and Software Development, I'm always looking to learn and add new skills to my toolbox. I'm a self-taught full-stack developer but prefer working on the backend. I am well versed in web development, using the MERN (MongoDB, Express, React, and Node) stack, as well as experience in languages such as C# (.NET Framework and ASP.NET), Java and Python.
+With backgrounds in IT, Computer Systems, and Software Development, I'm always looking to learn and add new skills to my toolbox. I'm a self-taught full-stack developer but prefer working on the backend. I am well versed in web development, using the MERN (MongoDB, Express, React, and Node) stack, as well as experience in languages such as C# (.NET Framework and ASP.NET), Java (Spring Boot) and Python (Flask). Additionally, I have experience working with many cloud tools, such as Google Cloud, Amazon Web Services, Heroku and Firebase, alongisde many databases, such as MongoDB, Postgres, and SQL Server.
 
 * 🌍  I'm based in Seattle
 * 🖥️  See my portfolio [here](http://pitt.edu/~aki22)
 * ✉️  You can contact me at [anirudh.iyer@outlook.com](mailto:anirudh.iyer@outlook.com)
-* 🧠  I'm currently working as a Software Engineer Intern at [CTSI](https://ctsi.pitt.edu/), where I'm creating a clinical research recruitment framework.
+* 🧠  I'm currently seeking Summer 2023 Internships.
 
 ### Skills
 
