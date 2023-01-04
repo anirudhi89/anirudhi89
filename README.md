@@ -9,6 +9,7 @@ With backgrounds in IT, Computer Systems, and Software Development, I'm always l
 * 🌍  I'm based in Seattle
 * 🖥️  See my portfolio [here](http://pitt.edu/~aki22)
 * ✉️  You can contact me at [anirudh.iyer@outlook.com](mailto:anirudh.iyer@outlook.com)
+* 💻  I'm currently working at @SAP
 * 🧠  I'm currently seeking Summer 2023 Internships.
 
 ### Skills
