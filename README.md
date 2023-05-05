@@ -13,7 +13,7 @@ Aside from that, I’m a huge sports fan, mostly football and basketball.
 * ✉️  You can contact me at [anirudh.iyer@outlook.com](mailto:anirudh.iyer@outlook.com)
 * 💻  I'm currently working at Workday as a Software Development Intern
 * 🧠  I'm currently seeking **New Grad Software Engineer** roles, starting May 2024
-* ⌨️   Languages: Java (Spring Boot), Python (Django, Flask, NLTK), JavaScript/TypeScript (Node.js, Express, React) , HTML/CSS, C# (ASP.NET)
+* ⌨️   Languages: Java (Spring Boot), Python (Django, Flask, NLTK), JavaScript/TypeScript (Node.js, Express, React) , C# (ASP.NET)
 
 ### Badges
 
