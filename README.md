@@ -12,7 +12,7 @@ Aside from that, I’m a huge sports fan, mostly football and basketball.
 * 🖥️  See my portfolio [here](http://pitt.edu/~aki22)
 * ✉️  You can contact me at [anirudh.iyer@outlook.com](mailto:anirudh.iyer@outlook.com)
 * 💻  Previously interned at Workday and SAP
-* ⌨️  Languages: Java, Python, Go, C#, C JavaScript/TypeScript
+* ⌨️  Languages: Java, Python, Go, C#, JavaScript/TypeScript
 
 <!---
 ### Badges
