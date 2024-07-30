@@ -1,17 +1,12 @@
 Hi! 👋 My name is Anirudh
 ====================================================================================================================================
 
-Software Developer
------------------------------------
+I'm a software engineer who learns best by building things, and I'm always looking to learn and add new skills to my toolbox. I'm a full-stack developer who prefers working on the backend. 
 
-I learn best by building things, and I'm always looking to learn and add new skills to my toolbox. I'm a full-stack developer who prefers working on the backend. 
+Aside from that, I love all things sports.
 
-Aside from that, I’m a huge sports fan, mostly football and basketball.
-
-* 🌍  I'm based in Seattle
 * 🖥️  See my portfolio [here](http://pitt.edu/~aki22)
 * ✉️  You can contact me at [anirudh.iyer@outlook.com](mailto:anirudh.iyer@outlook.com)
-* 💻  Previously interned at Workday and SAP
 * ⌨️  Languages: Java, Python, Go, C#, JavaScript/TypeScript
 
 <!---
